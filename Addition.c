@@ -1,7 +1,7 @@
 main()
 {
-a = 10;
-b= 5;
-c= a+b;
+int a = 10;
+int b= 5;
+int c= a+b;
 return(c);
 }
